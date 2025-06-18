@@ -32,6 +32,7 @@ const reviews = [
   { text: "Genuinely the prototype blueprint human being. Whenever someone asks me, 'Have you ever met a near perfect human Being?' I refer to Rakesh Murugesan. (I say near perfect cause he has this problem of being too humble.) Happy Birthday Brother", name: "Kadhu", desc: "Mass Glazer" },
   { text: "Cheeky mf, Happy Bday King!!", name: "Aishu", desc: "...akka for me" },
   { text: "Bro is built like a Nobel Prize Winner", name: "Vignesh", desc: "Rugby Player" },
+  { text: "Probably one of the best products to ever be developed. The resilience on this specimen is unmatched as shown by his spec sheet both in processing speed and by the sheer power output in certain areas such as the gym. The only drawback in this product comes in the form of his integration with other software models, the female model specifically. But overall very solid. 4.9/5", name: "Pratham", desc: "Aka..PRAT" },
 ];
 
   return (
