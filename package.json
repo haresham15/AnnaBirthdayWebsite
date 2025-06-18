@@ -14,7 +14,7 @@
     "react-scripts": "5.0.1",
     "tailwindcss": "^3.4.1"
   },
-  "homepage": "https://github.com/haresham15/AnnaBirthday_BlackTheme_Fixed.git",
+  "homepage": "https://haresham15.github.io/AnnaBirthday_BlackTheme_Fixed",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
