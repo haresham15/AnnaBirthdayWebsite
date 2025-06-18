@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/haresham15/AnnaBirthday_BlackTheme_Fixed.git/static/css/main.74b4960b.css",
-    "main.js": "/haresham15/AnnaBirthday_BlackTheme_Fixed.git/static/js/main.9f49dbbd.js",
-    "index.html": "/haresham15/AnnaBirthday_BlackTheme_Fixed.git/index.html",
-    "main.74b4960b.css.map": "/haresham15/AnnaBirthday_BlackTheme_Fixed.git/static/css/main.74b4960b.css.map",
-    "main.9f49dbbd.js.map": "/haresham15/AnnaBirthday_BlackTheme_Fixed.git/static/js/main.9f49dbbd.js.map"
+    "main.css": "/AnnaBirthday_BlackTheme_Fixed/static/css/main.74b4960b.css",
+    "main.js": "/AnnaBirthday_BlackTheme_Fixed/static/js/main.9f49dbbd.js",
+    "index.html": "/AnnaBirthday_BlackTheme_Fixed/index.html",
+    "main.74b4960b.css.map": "/AnnaBirthday_BlackTheme_Fixed/static/css/main.74b4960b.css.map",
+    "main.9f49dbbd.js.map": "/AnnaBirthday_BlackTheme_Fixed/static/js/main.9f49dbbd.js.map"
   },
   "entrypoints": [
     "static/css/main.74b4960b.css",
