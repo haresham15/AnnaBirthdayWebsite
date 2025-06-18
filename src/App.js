@@ -41,7 +41,7 @@ const reviews = [
       <Confetti />
       {/* --- Title --- */}
       <section className="py-12 px-6 text-center">
-        <h1 className="font-kodchasan text-8xl">Happy Birthday Anna!</h1>
+        <h1 className="font-kodchasan text-6xl">Happy Birthday Anna!</h1>
       </section>
 
       {/* --- Spline Viewer at the Top --- */}
@@ -63,7 +63,7 @@ const reviews = [
         <div className="max-w-4xl mx-auto text-base font-inter leading-relaxed text-gray-300">
           <p>
             Dear Anna,<br /><br />
-            Happy birthday Anna! I hope this birthday will be exciting and awesome as usual. I always have so much compliments for you at all times but its always for a reason. I always see you as some who is able to take the best parts of Dad and the best parts of Ma in one. Hanging out with you is like hanging out with both Ma and Dad. Your slow and detailed thinking always inspires me to analyze any situation I am in and you advice always give me the confidence to handle them. I am so happy everyday with the person I have became today but you have always maintained an equal share with Mom and Dad in shaping me properly and continue to! The world has so many successful people but you will always be THE ONE with the most mass of them all! <br /><br />
+            Happy birthday Anna! I hope this birthday will be exciting and awesome as usual. I always have so much compliments for you at all times but its always for a reason. I always see you as some who is able to take the best parts of Dad and the best parts of Ma in one. Hanging out with you is like hanging out with both Ma and Dad. Your slow and detailed thinking always inspires me to analyze any situation I am in and your advice always gives me the confidence to handle them. I am so happy everyday with the person I have became today but you have always maintained an equal share with Mom and Dad in shaping me properly and continue to! The world has so many successful people but you will always be THE ONE with the most mass of them all! <br /><br />
             Best,<br />
             Nunu
           </p>
